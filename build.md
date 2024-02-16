@@ -2,10 +2,13 @@
 
 ## Modern way with automation tools 
 
-virtualization
-dockerization
-ansible
+* virtualization
+* dockerization
+* ansible
 
+## Docker
 
+* [LFS](https://github.com/reinterpretcat/lfs)
 
-https://github.com/0rland/lfs-docker
+* [lfs-docker](https://github.com/0rland/lfs-docker)
+
