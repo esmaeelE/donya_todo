@@ -15,3 +15,7 @@ Using Cross compilation methond
 
 * [lfs-docker](https://github.com/0rland/lfs-docker)
 
+## Official Automated Linux from scratch
+
+* [ALFS](https://github.com/automate-lfs/jhalfs)
+
