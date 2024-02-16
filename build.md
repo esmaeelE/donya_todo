@@ -1,5 +1,8 @@
 ## Traditional way
 
+Build a working OS from source on a Guest OS 
+Using Cross compilation methond
+
 ## Modern way with automation tools 
 
 * virtualization
