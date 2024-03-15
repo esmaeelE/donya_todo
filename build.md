@@ -6,7 +6,7 @@ Using Cross compilation methond
 ## Modern way with automation tools 
 
 * virtualization
-* dockerization
+* containerization/dockerize
 * ansible
 
 ## Docker
@@ -14,6 +14,10 @@ Using Cross compilation methond
 * [LFS](https://github.com/reinterpretcat/lfs)
 
 * [lfs-docker](https://github.com/0rland/lfs-docker)
+
+### Implement Donya OS stages in docker file layers concept.
+
+
 
 ## Official Automated Linux from scratch
 
