@@ -24,4 +24,8 @@ pushd $LFS/sources
 popd
 ```
 
+* Move Sonya development to dockerize solution.
+* how to export docker output to real iso.
+* 
+
 
