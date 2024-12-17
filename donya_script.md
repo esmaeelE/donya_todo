@@ -104,9 +104,10 @@ sudo mkdir -v $LFS/sources
 sudo chmod -v a+wt $LFS/sources
 ```
 ## Download packages
+```
 wget https://www.linuxfromscratch.org/lfs/downloads/stable/wget-list
 wget --input-file=wget-list --continue --directory-prefix=$LFS/sources
-
+```
 
 Check md5sum
 ```
