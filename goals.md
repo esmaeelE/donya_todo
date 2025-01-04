@@ -7,3 +7,6 @@
 * use new tools like https://suckless.org
 * Persian and RTL languge support
 * https://users.rust-lang.org/t/can-gnu-be-oxidized/64226/5
+* dockerzie build stage
+* use bootable container to run OS
+* 
