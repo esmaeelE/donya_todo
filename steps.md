@@ -5,13 +5,13 @@ All steps suppose we work on Debian stable as host.
 
 ### Download latest version of lfs-packages tar file
 ```
-$ aria2c https://mirror.koddos.net/lfs/lfs-packages/lfs-packages-12.1.tar
+$ aria2c https://mirror.koddos.net/lfs/lfs-packages/lfs-packages-12.2.tar
 ```
 
 Extract archive file
 ```
 mkdir sources
-tar xvf lfs-packages-12.1.tar --strip-components=1  -C sources 
+tar xvf lfs-packages-12.2.tar --strip-components=1  -C sources 
 ```
 
 
